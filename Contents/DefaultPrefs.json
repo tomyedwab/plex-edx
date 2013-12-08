@@ -1,0 +1,15 @@
+[
+    {
+        "id": "email",
+        "label": "EdX account email",
+        "type": "text",
+        "default": ""
+    },
+    {
+        "id": "password",
+        "label": "EdX account password",
+        "type": "text",
+        "option": "hidden",
+        "default": ""
+    }
+]
